@@ -74,15 +74,7 @@ Here are some   ideas to get you started:
 
 ## Contact 
 <div> 
+  <a href="https://www.bcardona.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bmcardona" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: bcardona300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.bcardona.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
 </div>
-
-
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmcardona&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmcardona&theme=holi-theme">
-</p>
