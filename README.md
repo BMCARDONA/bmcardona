@@ -41,7 +41,7 @@
   </kbd>
 
   <kbd>
-    <kbd>Terminal Script</kbd>
+    <kbd>Terminal</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
