@@ -1,10 +1,9 @@
 
 ## About me! 
-- 🏫 Math graduate of Allegheny College.
-- 📚 Interested in Data Analytics and Data Science.
-- 🌱 Currently finishing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) authorized by DeepLearning.AI and Stanford University and offered through Coursera.
-- 💬 Interested in collaborating? *[Contact me](mailto:contact@bcardona300.com)*.
-- 🌐 See my personal website [here](https://www.bcardona.com).
+- Math graduate of Allegheny College.
+- Interested in Data Analytics and Data Engineering.
+- Want to collaborate? *[Contact me](mailto:contact@bcardona300.com)*.
+- See my personal website [here](https://www.bcardona.com).
 
 ## Skills
 <p style="display: inline-block;" align="center">
