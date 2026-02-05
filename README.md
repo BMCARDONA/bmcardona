@@ -2,7 +2,7 @@
 ## About me! 
 - Math graduate of Allegheny College
 - Data Analytics and Data Engineering
-- See my (dated) personal website [here](https://www.bcardona.com)
+- See my personal website [here](https://www.bcardona.com)
 
 ## Skills
 <p style="display: inline-block;" align="center">
