@@ -17,19 +17,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Cloud Infrastructure</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Databases and Warehousing</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  </kbd>
-  <kbd>
     <kbd>Data Processing and Orchestration</kbd>
     <br>
     <br>
@@ -38,11 +25,12 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Data Processing and Orchestration</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
   </kbd>
 </p>
 
