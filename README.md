@@ -2,7 +2,6 @@
 ## About me! 
 - 📚 Math graduate of Allegheny College.
 - 📊 Interested in Data Analytics and Data Engineering.
-- 📧 Want to collaborate? *[Contact me](mailto:contact@bcardona300.com)*.
 - 🌐 See my personal website [here](https://www.bcardona.com).
 
 ## Skills
